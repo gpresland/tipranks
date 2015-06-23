@@ -12,6 +12,7 @@ Use "mocha tests" to test all API functionality.
 
 ##Example Usage
 
+```JavaScript
 var api       = require('../tipranks').api,
     analytics = require('../tipranks').analytics,
     
@@ -34,3 +35,4 @@ options = {
 analytics.getMostRecommendedStocks(options).then(function (stocks) {
     console.dir(stocks);
 });
+```
