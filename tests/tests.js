@@ -54,9 +54,3 @@ describe('Test API requests', function () {
         });
     });
 });
-
-//describe('Test analytics', function () {
-//    it('', function (done) {
-//        //
-//    });
-//});
