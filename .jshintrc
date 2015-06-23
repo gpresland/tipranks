@@ -1,0 +1,15 @@
+{
+    "curly": true,
+    "devel": true,
+    "indent": 4,
+    "node": true,
+    "undef": true,
+    "unused": true,
+    "globals": {
+        "define": true,
+        "describe": true,
+        "it": true,
+        "module": true,
+        "require": true
+    }
+}
