@@ -5,13 +5,13 @@ Provides a simple Node library for accessing TipRanks' publicly accessible stock
 
 ---
 
-##Tests
+## Tests
 
 Use "mocha tests" to test all API functionality.
 
 ---
 
-##Example Usage
+## Example Usage
 
 ```JavaScript
 var api       = require('../tipranks').api,
