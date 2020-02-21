@@ -1,7 +1,7 @@
 # [DEPRECATED] TipRanks
 
 Provides a simple Node library for accessing TipRanks' publicly accessible stock information for demonstration purposes.
-\***NOTE:** Due to changes to TipRanks unoffical APIs, this module is unlikely to retreive occurate data, and will likely get blocked.
+\***NOTE:** Due to changes to TipRanks unoffical APIs, this module is unlikely to retreive accurate data, and will likely get blocked.
 
 ---
 
